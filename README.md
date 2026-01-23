@@ -2,10 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi,%20Welcome%20to%20my%20world&animation=&fontColor=ffffff&fontSize=50" />
     </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Grace%20%F0%9F%91%8B&fontColor=ffffff&fontSize=50&animation=fadeIn" />
-</div>
-
 <br/>
 
 ## 연구하는 개발자 🧪💻
@@ -50,15 +46,9 @@
 ---
 
 ## 🏅 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaejinKwon&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</div>
+
 
 ---
 
 ## 🏅 Baekjoon Stats
-<div align="center">
-  <a href="https://solved.ac/spacedog21">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=spacedog21" />
-  </a>
-</div>
+
