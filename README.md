@@ -50,7 +50,7 @@
 ## 🏅 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimchanyong&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanyong&layout=compact&bg_color=180,fbeeac,00000000&title_color=ffffff&text_color=ffffff" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kimchanyong&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </div>
