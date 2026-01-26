@@ -7,9 +7,9 @@
 저는 Python과 C++를 주 언어로 사용하며,  
 이를 기반으로 PyTorch와 C#을 중심으로 한 연구 및 개발을 하고 있습니다.
 
--Python을 활용한 생체신호 및 실험 데이터를 분석 및 전처리.
--PyTorch를 활용한 알고리즘 설계와 머신러닝 모델 구현.
--C#을 통해 Unity 환경에서 컨텐츠와 시스템 제작.
+-Python을 활용한 생체신호 및 실험 데이터를 분석 및 전처리
+-PyTorch를 활용한 알고리즘 설계와 머신러닝 모델 구현
+-C#을 통해 Unity 환경에서 컨텐츠와 시스템 제작
 -Arduino와 연동한 하드웨어 인터랙션 프로젝트 경험 있음.
 
 현재는 웨어러블 환경에서 수집되는 생체신호를 기반으로 사용자의 상태를 해석하고,  
@@ -50,7 +50,6 @@
 ## 🏅 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanyong&layout=compact&bg_color=180,fbeeac,00000000&title_color=ffffff&text_color=ffffff" />
-    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanyong&layout=compact&bg_color=180,fbeeac,00000000&title_color=ffffff&text_color=000000" />
     <img src="https://github-readme-stats.vercel.app/api?username=kimchanyong&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </div>
