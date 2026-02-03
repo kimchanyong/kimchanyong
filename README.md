@@ -14,7 +14,7 @@
 
 ## 🔍 학부연구(UROP)
 
-현재는 웨어러블 환경에서 수집되는 생체신호를 기반으로 사용자의 상태를 해석하고, 이를 인터랙티브 시스템으로 확장하는 연구를 진행하고 있습니다.
+웨어러블 환경에서 수집되는 생체신호를 기반으로 사용자의 상태를 해석하고, 이를 인터랙티브 시스템으로 확장하는 연구를 진행중 입니다.
 
 **[Research Interests]**
 - Physical AI
@@ -48,9 +48,26 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white">
 </div>
 
-## 🏅 Stats
+## 💼 경험
+- **실내 공기질 모니터링 시스템**: 하계 현장실습
+- **블록코딩 알고리즘 교육**: 한국장학재단 하계 대학생 재능봉사
+- **학부연구(UROP)**: 최신 머신러닝기법을 적용한 추천시스템에 대한 연구
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchanyong&layout=compact&bg_color=180,fbeeac,00000000&title_color=ffffff&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kimchanyong&show_icons=true&hide_border=true&bg_color=60,d4b5b5,8e7ab3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</div>
+## 🏆 성과
+- **HowCook?**: 머신러닝 기반 레시피 추천 웹 서비스 (2022년 캡스톤디자인 최우수상 1위)
+- **booriay**: CCTV 기반 화재 탐지 및 구조보조 앱 (2022년 공개 SW 개발자 대회 사회부문 우수작품 선정)
+- **CarKeeper**: 안전한 차박 경험 제공 솔루션 (2022년 임베디드 SW 경진대회 자동차 모빌리티 부문 1위 최우수상)
+
+## 📚 교육
+- **Nvidia DLI**: NVIDIA DeepLearningInstitue 딥러닝의 기초
+- **42Seoul**: 9기 1차 La piscine 교육
+
+## 🔍 프로젝트
+- **[실내 공기질 모니터링 시스템](https://github.com/junyong1111/Air-Quality-KMU)**
+- **[HowCook? 머신러닝 기반 레시피 추천 웹 서비스](https://github.com/kookmin-sw/capstone-2022-10)**
+- **[CarKeeper 차박 솔루션](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017)**
+- **[booriay 화재 탐지 및 구조보조 앱](https://github.com/KOBOTBOARD-11/OSS_2022)**
+- **[GNN을 이용한 추천 시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN)**: 알파 프로젝트
+- **[건설 현장직을 위한 커뮤니티 애플리케이션](https://github.com/No-MLife/Life)**: 개인 프로젝트
+## ✨ 최신 업데이트
+- **[LangChain을 이용한 PDF 퀴즈 생성 서비스 ](https://github.com/August-ToyProject/PDF-Quiz)**: 토이 프로젝트(서비스 종료)
